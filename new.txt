@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Dwijal is besttt
+=======
+Dwijal is goodd
+>>>>>>> featone
